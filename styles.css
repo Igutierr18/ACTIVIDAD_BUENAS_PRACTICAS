@@ -27,3 +27,14 @@
 .hobby img:hover {
     transform: scale(1.1); /
 }
+
+.SERIES_FAVORITAS {
+    text-align: center; 
+}
+
+.serie img {
+    width: 500px; 
+    height: auto;
+    margin: 10px auto; 
+    transition: transform 0.3s ease;
+}
