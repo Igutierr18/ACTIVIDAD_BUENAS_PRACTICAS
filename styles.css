@@ -6,3 +6,13 @@
 .Titulo {
     text-align: center;
 }
+
+.HOBBIES {
+    text-align: center; 
+}
+
+.hobby {
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+}
