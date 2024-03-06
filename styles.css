@@ -16,3 +16,14 @@
     text-align: center;
     margin: 10px;
 }
+
+.hobby img {
+    width: 300px; 
+    height: auto;
+    margin: 10px auto; 
+    transition: transform 0.1s ease;
+}
+
+.hobby img:hover {
+    transform: scale(1.1); /
+}
